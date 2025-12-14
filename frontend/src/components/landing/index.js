@@ -1,0 +1,14 @@
+export { default as AboutLeftContent } from "./AboutLeftContent";
+export { default as AboutRightContent } from "./AboutRightContent";
+export { default as HowItWorksHeader } from "./HowItWorksHeader";
+export { default as HowItWorksSteps } from "./HowItWorksSteps";
+export { default as FeaturesHeader } from "./FeaturesHeader";
+export { default as FeaturesGrid } from "./FeaturesGrid";
+export { default as PricingHeader } from "./PricingHeader";
+export { default as PricingCards } from "./PricingCards";
+export { default as TestimonialsHeader } from "./TestimonialsHeader";
+export { default as TestimonialsGrid } from "./TestimonialsGrid";
+export { default as FAQHeader } from "./FAQHeader";
+export { default as FAQItems } from "./FAQItems";
+export { default as FinalCTAContent } from "./FinalCTAContent";
+export { default as Pattern } from "./Pattern";
